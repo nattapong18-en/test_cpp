@@ -1,11 +1,1 @@
-build/
-
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
-Makefile
-
-my_program
-*.exe
-*.out
 
